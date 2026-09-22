@@ -158,7 +158,7 @@
     @apply border-border outline-ring/50;
   }
   html {
-    font-size: 18px; /* Increases overall webpage font scale cleanly */
+    font-size: 14px; /* Increases overall webpage font scale cleanly */
     scroll-behavior: smooth;
     /* Offset anchor targets so they clear the sticky header. */
     scroll-padding-top: 6.5rem;

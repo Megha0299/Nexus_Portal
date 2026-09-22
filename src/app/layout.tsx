@@ -3,9 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'RoboWeb Technologies | Software, AI Automations & IT Training in Madurai',
+  title: 'Nexus Technologies | Software, AI Automations & IT Training in Madurai',
   description:
-    'RoboWeb Technologies builds custom software, web & mobile apps, and AI automations for growing businesses, and mentors future developers through hands-on training and internships.',
+    'Nexus Technologies builds custom software, web & mobile apps, and AI automations for growing businesses, and mentors future developers through hands-on training and internships.',
   generator: 'v0.app',
   icons: {
     icon: [
